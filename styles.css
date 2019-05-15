@@ -28,9 +28,21 @@ header {
     padding: 20px;
     display: flex;
     align-items: center;
-    justify-content: left;
+    justify-content: space-between;
     z-index: 1;
 
+}
+
+#allLogo {
+    display: flex;
+    align-items: center;
+    
+}
+
+#subIn {
+    display: flex;
+    align-items: center;
+    
 }
 
 #logo {
